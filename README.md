@@ -7,7 +7,7 @@ A comprehensive project and task management platform with integrated financial t
 
 ## 📋 Overview
 
-OneFlow is a full-stack web application designed to streamline project management workflows. It provides teams with powerful tools to manage projects, track tasks, monitor time, handle approvals, and manage financial aspects including expenses, invoices, and purchase orders.
+FlowForge is a full-stack web application designed to streamline project management workflows. It provides teams with powerful tools to manage projects, track tasks, monitor time, handle approvals, and manage financial aspects including expenses, invoices, and purchase orders.
 
 ## ✨ Features
 
@@ -145,5 +145,6 @@ For questions or support, please open an issue on GitHub.
 ---
 
 Built with ❤️ for better project management
+
 
 
